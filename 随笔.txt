@@ -1,0 +1,28 @@
+﻿9561
+
+{"groups":[{"rules":[{"field":"{CurrentGroupID}","op":"equal","value":"ed24f7c1-60fb-4513-bf4e-8e4afdaa2107","type":"string"}],"op":"and"},{"rules":[{"field":"{CurrentGroupID}","op":"equal","value":"b465b900-0520-47a1-94dc-d24835ede557","type":"string"}],"groups":[{"rules":[{"field":"MarketPerson","op":"equal","value":"{CurrentUserName}","type":"string"},{"field":"MarketPerson","op":"equal","value":"","type":"string"}],"op":"or"}],"op":"and"},{"rules":[{"field":"{CurrentGroupID}","op":"equal","value":"ccb4ba1b-1bc3-4980-b1d3-9b106406de52","type":"string"}],"op":"and"},{"rules":[{"field":"{CurrentGroupID}","op":"equal","value":"132686b7-e570-4cc1-a626-a2a29834260f","type":"string"}],"op":"and"}],"op":"or"}
+
+
+1.Nodejs 
+---
+https://nodejs.org
+
+2.Cordova 
+---
+npm install -g cordova
+
+3.java JDK 
+---
+http://java.oracle.com
+
+4.Android SDK 
+---
+http://developer.android.com/sdk/index.html
+
+5.eclipse
+---
+www.eclipse.org
+Eclipse IDE for java EE Deveplopers
+
+ADT 开发环境
+https://dl-ssl.google.com/android/eclipse/
