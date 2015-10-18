@@ -25,4 +25,13 @@ www.eclipse.org
 Eclipse IDE for java EE Deveplopers
 
 ADT 开发环境
+---
 https://dl-ssl.google.com/android/eclipse/
+
+Android SDK 国内镜像下载地址
+---
+http://www.androiddevtools.cn/
+
+开发环境搭建
+---
+http://www.cnblogs.com/xdp-gacl/p/4322165.html
