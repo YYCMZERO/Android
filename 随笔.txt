@@ -7,7 +7,7 @@
 ---
 https://nodejs.org
 
-2.Cordova 
+2.Cordova CLI
 ---
 npm install -g cordova
 
@@ -15,11 +15,15 @@ npm install -g cordova
 ---
 http://java.oracle.com
 
-4.Android SDK 
+4.Ant (build工具)
+---
+http://ant.apache.com
+
+5.Android SDK 
 ---
 http://developer.android.com/sdk/index.html
 
-5.eclipse
+6.eclipse
 ---
 www.eclipse.org
 Eclipse IDE for java EE Deveplopers
