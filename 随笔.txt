@@ -35,3 +35,17 @@ http://www.androiddevtools.cn/
 开发环境搭建
 ---
 http://www.cnblogs.com/xdp-gacl/p/4322165.html
+
+
+cordova plugin add com.ionic.keyboard && 
+cordova plugin add cordova-plugin-console && 
+cordova plugin add cordova-plugin-device && 
+cordova plugin add cordova-plugin-device-motion && 
+cordova plugin add cordova-plugin-file && 
+cordova plugin add cordova-plugin-file-transfer && 
+cordova plugin add cordova-plugin-geolocation && 
+cordova plugin add cordova-plugin-inappbrowser && 
+cordova plugin add cordova-plugin-network-information && 
+cordova plugin add cordova-plugin-splashscreen && 
+cordova plugin add cordova-plugin-camera && 
+cordova plugin add cordova-plugin-admobpro
